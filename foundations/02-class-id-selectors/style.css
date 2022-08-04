@@ -1,0 +1,21 @@
+.odd {
+    background-color: #ffccff;
+    font-family: Verdana, "DejaVu-Sans",sans-serif;
+}
+
+.try-cooler {
+    font-size: 24px; 
+    font-weight: bold;
+}
+
+#Number-2 {
+    font-size: 36px;
+    color: #0040ff;
+
+}
+
+#Number-4 {
+    background-color: #66ff99;
+    font-size: 24px;
+    font-weight: bold;
+}
